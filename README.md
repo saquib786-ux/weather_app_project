@@ -1,4 +1,4 @@
-#api based weather_app_project
+#API_based_weather_app_project
 Developed a Python-based weather application featuring a graphical user interface (GUI) using Tkinter.
 Integrated OpenWeatherMap API to fetch real-time weather data, including temperature, pressure, weather
 climate , and weather description based on user-input city names.
